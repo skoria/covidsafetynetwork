@@ -2,3 +2,7 @@
 
 Main Repo At:
 https://github.com/covidsafetynetwork/covidsafetynetwork
+
+Designs:
+
+How-Tos:
